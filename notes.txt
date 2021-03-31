@@ -1,0 +1,3 @@
+2/18/2021
+added lines to test for path to (dayOfWeek)/PowerShell Transcripts/
+and create this directory if it doesn't exist
